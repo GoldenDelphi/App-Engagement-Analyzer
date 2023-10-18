@@ -1,6 +1,7 @@
 # AppEngageAnalyzer
 
-AppEngageAnalyzer is a user engagement analysis tool designed to provide deep insights into user behavior on a specific landing page within your app. By generating interactive heat maps based on impressions and clicks, this project helps you understand user intent, enhance app engagement, and optimize sales and deals for both our major user segment - FT (First Timers) and RB (Return Buyers). 
+AppEngageAnalyzer is a user engagement analysis tool created to provide deep insights into user behavior on a specific landing page within your app. This project was created for the e-commerce platform Purplle during my internship. By generating interactive heat maps based on impressions and clicks, this project helps understand user intent, enhance app engagement, and optimize sales and deals for both our major user segment - FT (First Timers) and RB (Return Buyers) at Purplle. 
+
 
 ## Features
 
